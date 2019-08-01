@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">movie</string>
+    <string name="Go">Go!</string>
+    <string name="username_is_empty">Username is empty</string>
+    <string name="failed_to_create_user">Failed to create user</string>
+    <string-array name="movies_tabs">
+        <item>Movies</item>
+        <item>Favorite Movies</item>
+    </string-array>
+    <string name="failed_to_get_movies">Failed to get movies</string>
+    <string name="failed_to_add_to_favorites">Failed to add to favorites</string>
+    <string name="failed_to_remove_from_favorites">Failed to remove from favorites</string>
+    <string name="year">Year: %d</string>
+    <string name="genres">Genres: %s</string>
+    <string name="director">Director: %s</string>
+    <string name="main_star">Main star: %s</string>
+    <string name="description">Description: %s</string>
+    <string name="action_logout">Logout</string>
+    <string name="welcome">Welcome %s</string>
+    <string name="times_liked">Times liked: %d</string>
+    <string name="enter_username">Enter username</string>
+    <string name="do_you_want_to_create_new_user">Do you want to create a new user with username: %s</string>
+    <string name="attention">Attention</string>
+    <string name="no_conntextion_message">Please check your internet connection and try again</string>
+    <string name="loading">Loading</string>
+    <string name="enter_valid_name">Please enter valid name</string>
+</resources>
